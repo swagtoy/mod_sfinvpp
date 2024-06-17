@@ -8,7 +8,7 @@ Slight tweaks to sfinv and some surrounding elements. Think of this as a watered
 - Adds trash button to crafting formspec
 - Tweaks some other formspecs from other mods
 
-Dependencies: `default`
+Dependencies: `default, sfinv`
 
 Optional dependencies: `3d_armor, 3d_armor_sfinv`
 
